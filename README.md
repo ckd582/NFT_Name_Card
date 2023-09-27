@@ -1,2 +1,1 @@
-# NFT_Name_Card
- NFT name card
+# 나의 명함 NFT 만들기
